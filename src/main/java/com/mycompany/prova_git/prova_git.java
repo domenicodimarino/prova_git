@@ -10,5 +10,7 @@ package com.mycompany.prova_git;
  * @author domenicodimarino
  */
 public class prova_git {
-    
+    public static void main(String args[]){
+        System.out.println("Salve GitHub!");
+    }
 }
